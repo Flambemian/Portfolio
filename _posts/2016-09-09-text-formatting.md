@@ -4,7 +4,7 @@ title: "Text Formatting"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: Rusty-Beach-03.jpg
 ---
 
 # Markdown Support
